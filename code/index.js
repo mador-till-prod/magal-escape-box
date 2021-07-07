@@ -1,4 +1,4 @@
-const CODE = 273;
+const CODE = 83;
 // const CORRECT_VALUES = [
 //     "דבקות במטרה וחתירה לניצחון",
 //     "אחריות",
